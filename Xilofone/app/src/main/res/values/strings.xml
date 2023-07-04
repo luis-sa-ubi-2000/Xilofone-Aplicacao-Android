@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Xilofone</string>
+    <string name="re">Re</string>
+    <string name="do1">Do</string>
+    <string name="mi">Mi</string>
+    <string name="fa">Fa</string>
+    <string name="sol">Sol</string>
+    <string name="la">La</string>
+    <string name="si">Si</string>
+    <string name="do2">Do</string>
+</resources>
